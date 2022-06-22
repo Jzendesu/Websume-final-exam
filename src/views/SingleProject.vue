@@ -16,25 +16,25 @@ export default {
 	data: () => {
 		return {
 			singleProjectHeader: {
-				singleProjectTitle: 'Project Management UI',
-				singleProjectDate: 'Jul 26, 2021',
-				singleProjectTag: 'UI / Frontend',
+				singleProjectTitle: 'Projects',
+				singleProjectDate: 'January 20, 2022',
+				singleProjectTag: 'Digital Art / Illustration ',
 			},
 			projectImages: [
 				{
 					id: 1,
-					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/ui-project-1.jpg'),
+					title: 'DTIYS',
+					img: require('@/assets/images/personal_art.jpg'),
 				},
 				{
 					id: 2,
-					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/web-project-2.jpg'),
+					title: 'latest commission',
+					img: require('@/assets/images/ART3.jpg'),
 				},
 				{
 					id: 3,
-					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/mobile-project-2.jpg'),
+					title: 'assets game',
+					img: require('@/assets/images/assets.jpg'),
 				},
 			],
 			projectInfo: {
@@ -43,22 +43,22 @@ export default {
 					{
 						id: 1,
 						title: 'Name',
-						details: 'Company Ltd',
+						details: 'RIOT Games',
 					},
 					{
 						id: 2,
 						title: 'Services',
-						details: 'UI Design & Frontend Development',
+						details: 'Illustrator & Concept Artist',
 					},
 					{
 						id: 3,
 						title: 'Website',
-						details: 'https://company.com',
+						details: 'https://www.riotgames.com/en',
 					},
 					{
 						id: 4,
 						title: 'Phone',
-						details: '555 8888 888',
+						details: '090 8834 888',
 					},
 				],
 				objectivesHeading: 'Objective',
@@ -68,12 +68,12 @@ export default {
 					{
 						title: 'Tools & Technologies',
 						techs: [
-							'HTML',
-							'CSS',
-							'JavaScript',
-							'Vue.js',
-							'TailwindCSS',
-							'AdobeXD',
+							'Photoshop',
+							'Clip Studio Paint',
+							'Paint Tool SAi',
+							'Blender',
+							'Spine',
+							'Sony Vegas',
 						],
 					},
 				],
@@ -106,32 +106,21 @@ export default {
 						id: 1,
 						name: 'Twitter',
 						icon: 'twitter',
-						url: 'https://twitter.com/realstoman',
+						url: 'https://twitter.com/jzen47736352',
 					},
 					{
 						id: 2,
 						name: 'Instagram',
 						icon: 'instagram',
-						url: 'https://instagram.com/realstoman',
+						url: 'https://www.instagram.com/',
 					},
 					{
 						id: 3,
 						name: 'Facebook',
 						icon: 'facebook',
-						url: 'https://facebook.com/',
+						url: 'https://www.facebook.com/jzendesu',
 					},
-					{
-						id: 4,
-						name: 'LinkedIn',
-						icon: 'linkedin',
-						url: 'https://linkedin.com/',
-					},
-					{
-						id: 5,
-						name: 'Youtube',
-						icon: 'youtube',
-						url: 'https://www.youtube.com/c/StomanStudio',
-					},
+					
 				],
 			},
 			relatedProject: {
@@ -139,23 +128,23 @@ export default {
 				relatedProjects: [
 					{
 						id: 1,
-						title: 'Mobile UI',
-						img: require('@/assets/images/mobile-project-1.jpg'),
+						title: 'Art',
+						img: require('@/assets/images/ART1.jpg'),
 					},
 					{
 						id: 2,
-						title: 'Web Application',
-						img: require('@/assets/images/web-project-1.jpg'),
+						title: 'Art',
+						img: require('@/assets/images/ART2.jpg'),
 					},
 					{
 						id: 3,
-						title: 'UI Design',
-						img: require('@/assets/images/ui-project-2.jpg'),
+						title: 'Art',
+						img: require('@/assets/images/ART4.jpg'),
 					},
 					{
 						id: 4,
-						title: 'Kabul Mobile App UI',
-						img: require('@/assets/images/mobile-project-2.jpg'),
+						title: 'art',
+						img: require('@/assets/images/personal_art.jpg'),
 					},
 				],
 			},

@@ -20,18 +20,18 @@ export default {
 			categories: [
 				{
 					id: 1,
-					value: 'web',
+					value: 'Digi-art',
 					name: 'Web Application',
 				},
 				{
 					id: 2,
-					value: 'mobile',
-					name: 'Mobile Application',
+					value: 'Digi-art',
+					name: 'Digital Art / Illustration',
 				},
 				{
 					id: 3,
-					value: 'ui-ux',
-					name: 'UI/UX Design',
+					value: 'graphic',
+					name: 'Graphic Design',
 				},
 				{
 					id: 4,

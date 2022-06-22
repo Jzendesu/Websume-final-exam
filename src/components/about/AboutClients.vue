@@ -11,44 +11,25 @@ export default {
 			clients: [
 				{
 					id: 1,
-					title: 'Amazon',
-					img: require('@/assets/images/brands/amazon_gray.png'),
+					title: 'Disney',
+					img: require('@/assets/images/brands/disney_gray.png'),
 				},
 				{
 					id: 2,
-					title: 'Sony',
-					img: require('@/assets/images/brands/sony_gray.png'),
+					title: 'Pixar',
+					img: require('@/assets/images/brands/pixar_gray.png'),
 				},
 				{
 					id: 3,
-					title: 'Adidas',
-					img: require('@/assets/images/brands/adidas_gray.png'),
+					title: 'Riot',
+					img: require('@/assets/images/brands/riot_gray.png'),
 				},
 				{
 					id: 4,
-					title: 'FILA',
-					img: require('@/assets/images/brands/fila_gray.png'),
+					title: 'Hoyoverse',
+					img: require('@/assets/images/brands/hoyoverse_gray.png'),
 				},
-				{
-					id: 5,
-					title: 'NB',
-					img: require('@/assets/images/brands/nb_gray.png'),
-				},
-				{
-					id: 6,
-					title: 'SAMSUNG',
-					img: require('@/assets/images/brands/samsung_gray.png'),
-				},
-				{
-					id: 7,
-					title: 'CANON',
-					img: require('@/assets/images/brands/canon_gray.png'),
-				},
-				{
-					id: 7,
-					title: 'PUMA',
-					img: require('@/assets/images/brands/puma_gray.png'),
-				},
+				
 			],
 		};
 	},
